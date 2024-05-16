@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import Footer from './components/pages/main-page/footer.jsx'
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
     
      <div>
        <h1>Welcome to my react app</h1>
+       <Footer />
      </div>
       
       
